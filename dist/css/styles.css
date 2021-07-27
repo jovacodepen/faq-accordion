@@ -60,7 +60,7 @@ p {
 
 .container .row .img-col {
   position: relative;
-  background-image: url("./dist/img/bg-pattern-mobile.svg");
+  background-image: url("../dist/img/bg-pattern-mobile.svg");
   background-position: 50% 10%;
   background-size: 70%;
   background-repeat: no-repeat;
@@ -69,7 +69,7 @@ p {
 
 @media screen and (min-width: 1024px) {
   .container .row .img-col {
-    background-image: url("./dist/img/bg-pattern-desktop.svg");
+    background-image: url("../dist/img/bg-pattern-desktop.svg");
     background-position: 100%, -100%;
     background-size: 200%;
     background-repeat: no-repeat;
