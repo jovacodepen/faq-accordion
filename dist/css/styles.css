@@ -60,7 +60,7 @@ p {
 
 .container .row .img-col {
   position: relative;
-  background-image: url("./img/bg-pattern-mobile.svg");
+  background-image: url("../img/bg-pattern-mobile.svg");
   background-position: 50% 10%;
   background-size: 70%;
   background-repeat: no-repeat;
